@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "Niall Horan",
+    "image":"./assets/NiallHoran.jpeg"
+  },
+  {
+    "artist": "P!nk",
+    "image": "./assets/Pink.jpeg"
+  },
+  {
+    "artist": "Imagine Dragons",
+    "image": "./assets/ImagineDragons.jpeg"
+  },
+  {
+    "artist": "Post Malone",
+    "image" :"./assets/PostMalone.jpeg"
+  },
+  {
+    "artist": "Luke Combs",
+    "image":"./assets/LukeCombs.jpeg"
+  },
+  {
+    "artist": "Junior H",
+    "image":"./assets/JuniorH.jpeg"
+  },
+  {
+    "artist": "Peso Pluma",
+    "image":"./assets/PesoPluma.jpeg"
+  },
+  {
+    "artist": "Danny Ocean",
+    "image":"./assets/DannyOcean.jpeg"
+  },
+  {
+    "artist": "Shakira",
+    "image":"./assets/Shakira.jpeg"
+  },
+  {
+    "artist": "Ludacris",
+    "image":"./assets/Ludacris.jpeg"
+  },
+  {
+    "artist": "Janet Jackson",
+    "image":"./assets/JanetJackson.jpeg"
+  },
+  {
+    "artist": "Taylor Swift",
+    "image":"./assets/TaylorSwift.jpeg"
+  },
+  {
+    "artist": "Blink-182",
+    "image":"./assets/Blink182.jpeg"
+  },
+  {
+    "artist": "Feid",
+    "image":"./assets/Feid.jpeg"
+  },
+  {
+    "artist": "Fuerza Regida",
+    "image":"./assets/FuerzaRegida.jpeg"
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "image":"./assets/SabrinaCarpenter.jpeg"
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "image":"./assets/CAS.jpeg"
+  },
+  {
+    "artist": "Billie Eilish",
+    "image":"./assets/BillieEilish.jpeg"
+  },
+  {
+    "artist": "Childish Gambino",
+    "image":"./assets/ChildishGambino.jpeg"
+  },
+  {
+    "artist": "Chayanne",
+    "image":"./assets/Chayanne.jpeg"
+  }
+]

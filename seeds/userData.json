@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Gaby",
+    "email": "gaby@gmail.com",
+    "password": "12345678",
+    "isAdmin": true
+  },
+  {
+    "name": "Vane",
+    "email": "vane@gmail.com",
+    "password": "12345678",
+    "isAdmin": true
+  },
+  {
+    "name": "Miguel",
+    "email": "miguel@gmail.com",
+    "password": "12345678",
+    "isAdmin": true
+  },
+  {
+    "name": "Zayn Malik",
+    "email": "zayn1@gmail.com",
+    "password": "12345678",
+    "isAdmin": false 
+  }
+]

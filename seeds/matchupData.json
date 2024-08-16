@@ -1,0 +1,10 @@
+[
+    {
+        "artistA": "Imagine Dragons",
+        "artistB": "Blink-182",
+        "votesA": "22",
+        "votesB": "20",
+        "imageA": "./assets/ImagineDragons.jpeg",
+        "imageB": "./assets/Blink182.jpeg"
+    }
+]
